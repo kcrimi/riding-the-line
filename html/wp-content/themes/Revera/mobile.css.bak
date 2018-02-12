@@ -1,0 +1,39 @@
+#mobile {
+	width: 100%;
+	float:none;
+}
+.alignnone size-large wp-image-7 {
+	padding-left:0px;
+	height:auto;
+}
+#primary {
+	width:100%;
+	padding-top:20px;
+}
+.aboutinfo {
+	width:100%;
+}
+.centerimg {
+	height:auto;
+}
+#secondary {
+	float:none;
+	padding:0px;
+}
+#mob-frame {
+	width:auto;
+}
+.even .bioinfo {
+	float:none;
+	width:100%;
+}
+.odd .bioinfo {
+	float:none;
+	width:100%;
+}
+.profilepic {
+	margin-top:0px;
+}
+.email {
+	float:none;
+}
